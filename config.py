@@ -1,4 +1,5 @@
-from dotenv import load_dotenv
+from dotenv import load_dotenv #pip install python-dotenv
+
 import os
 # carga las variables de entorno desde el archivo .env
 load_dotenv()

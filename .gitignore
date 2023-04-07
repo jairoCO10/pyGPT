@@ -1,0 +1,6 @@
+## archivos
+.env
+conversation.txt
+
+## carpetas
+__pycache__
